@@ -1,9 +1,0 @@
-# List 와 ArrayList 의 차이
-
-```jsx
-List<String> = new ArrayList<>();
-
-ArrayList<String> = new ArrayList<>();
-```
-
- 이것의 차이를 정말 명확하게 이해해야 한다. 앞에 Interface 를 사용한다면, Flexibility 하다는 것이다. 나아가, Generic (정확히 무슨 일을 하는가?) , 간단히 요약하면 클래스 내부에서 일하는 것이 아니라 클래스 외부에서 "사용자"에 의해 정의된다는 것이다 타입이.
