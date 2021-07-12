@@ -1,3 +1,12 @@
+---
+title:  "HashTable!! (HashMap도 만들지 못하면 개발자라 하지 말라.)"
+excerpt: "HashMap 도 만들지 못하면 개발자라 하지 말라."
+
+categories: Java HashTable HashMap
+date: 2021-07-12
+---
+
+
 # HashTable
 
 This class implements a hash table, which maps keys to values. Any non-`null` object can be used as a key or as a value.
